@@ -16,7 +16,7 @@
   "devDependencies": {},
   "scripts": {
     "start": "nodemon index.js",
-    "build": "echo 'build script executed'"
+    
   },
   "author": "",
   "license": "ISC"
